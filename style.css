@@ -1,0 +1,83 @@
+/* step one*/
+img{width: 80x; height: 50px; 
+
+}
+body{
+    background-color: black
+}
+a{color: rgb(180, 184, 160);
+    font-size: 13px;
+    font-family: 'Courier New', Courier, monospace;
+ 
+}
+.obj{
+    margin-left: 50px;
+    margin-top: -60px;
+    background-color: rgba(72, 66, 66, 0.107)
+    
+    
+}
+.clo{
+    margin-left: 20px;
+}
+.nik{
+    width: 100%;
+    height: 100%;
+}
+.acc{
+    margin-left: 20px;
+}
+.sign{
+    margin-left: 800px;
+    margin-top: -100px;
+    font-size: 8px;}
+.just{color: white;
+    padding-left: 450px;
+    padding-top: -150px;
+    font-size: 10px;
+    
+}
+/*step 2 shoes*/
+
+.bod{
+    background-color: white;
+}
+.jor{
+    padding-top: -100px;
+    
+    background-color: white;
+    background-size: 100%;
+    
+}
+.ulshoes{
+    transform: translatex(-40px);
+}
+.click{
+    color: black;
+    background-color: gray;
+    border-radius: 200px;
+}
+.wclick{
+    background-color: pink;
+    border-radius: 200px;
+}
+.kclick{
+    background-color: rgb(105, 105, 168);
+    border-radius: 200px;
+}
+.goal{
+    width: 100%;
+    height: 100%;
+}
+p{
+  font-family:'Courier New', Courier, monospace;
+  padding-left: 300px;
+  transform: translatey(-140px);
+  
+}
+.bo{
+    background-color: rgb(93, 91, 95);
+}
+.pass{
+    font-family: 'Times New Roman', Times, serif; color: greenyellow;
+}
